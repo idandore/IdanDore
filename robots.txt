@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idandore.github.io/IdanDore/sitemap.xml
